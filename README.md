@@ -1,5 +1,5 @@
 # Shadow
-The most feature-rich and optimized Practice Core
+The most feature-rich and optimized Practice Core (too old version)
 
 > [!IMPORTANT]
 > This resource works the best on 1.8.8.
