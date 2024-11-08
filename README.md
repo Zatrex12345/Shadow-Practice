@@ -33,20 +33,5 @@ The most feature-rich and optimized Practice Core
 - ~~Winstreaks~~ Already added
 
 # Terms of Use
-You are **NOT** allowed to:
-
-- You can't claim any of the code as your own
-- Must keep all credits within any copies of the resource
-- Must read the license
-- Don't skid it
-- Don't edit the authors
-- Don't rename the plugin
-- Don't claim this plugin as yours
-- Don't redestribute this plugin
-- Don't resell this without perm
-- Don't send it to iusemeteor
-- Don't send it to anyone
-- Don't leak it
-
-# Additional Info
-- Dont become iusemeteor and skid this thing and claim as your own 🙏
+- Everyone got the ownership (only meteor is not allowed to get it)
+- iusemeteor or any of his alts is **NOT** allowed to use this.
