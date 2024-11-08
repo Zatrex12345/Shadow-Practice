@@ -33,5 +33,5 @@ The most feature-rich and optimized Practice Core
 - ~~Winstreaks~~ Already added
 
 # Terms of Use
-- Everyone got the ownership (only meteor is not allowed to get it)
+- Everyone got the ownership (only meteor or any of his alts is not allowed to get it)
 - iusemeteor or any of his alts is **NOT** allowed to use this.
