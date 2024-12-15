@@ -3,7 +3,6 @@ package me.funky.praxi.adapter.core;
 import lombok.Getter;
 import lombok.Setter;
 import me.funky.praxi.adapter.core.impl.Default;
-import me.funky.praxi.adapter.core.impl.VerseCore;
 import me.funky.praxi.adapter.core.impl.Volcano;
 import me.funky.praxi.adapter.core.impl.Nebula;
 import org.bukkit.Bukkit;
@@ -30,10 +29,7 @@ public class CoreManager {
     }
 
     public void loadRank() {
-		if (Bukkit.getPluginManager().getPlugin("VerseCore") != null) {
-                   this.setCore(new VerseCore());
-                   setCoreSystem("VerseCore");
-		} else if (Bukkit.getPluginManager().getPlugin("Volcano") != null) {
+		if (Bukkit.getPluginManager().getPlugin("Volcano") != null) {
                     this.setCore(new Volcano());
                     setCoreSystem("Volcano");
                 } else if (Bukkit.getPluginManager().getPlugin("Nebula") != null) {
