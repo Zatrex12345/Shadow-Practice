@@ -111,13 +111,6 @@
             <scope>system</scope>
             <systemPath>${project.basedir}/libs/Citizens.jar</systemPath>
         </dependency>
-        <dependency>
-            <groupId>xyz.versedev</groupId>
-            <artifactId>loader</artifactId>
-            <version>6.0.0-SNAPSHOT</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/libs/VerseLoader.jar</systemPath>
-        </dependency>
 	    <dependency>
             <groupId>pt.foxspigot.jar</groupId>
             <artifactId>foxspigot-parent</artifactId>
@@ -152,13 +145,6 @@
             <version>6.0.0-SNAPSHOT</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/libs/WorldEdit.jar</systemPath>
-        </dependency>
-     	<dependency>
-            <groupId>versecoreapi</groupId>
-            <artifactId>versecore</artifactId>
-            <version>dev</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/libs/VerseCoreAPI.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.github.paperspigot</groupId>
