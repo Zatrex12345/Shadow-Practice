@@ -3,7 +3,7 @@ The most feature-rich and optimized Practice Core (too old version)
 
 > [!IMPORTANT]
 > This resource works the best on 1.8.8.
-> This project is now abandoned (for one month only).
+> This project is now abandoned.
 
 # Usage
 - You're are to follow everything under the "LICENSE" file
