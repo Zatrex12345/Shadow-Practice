@@ -33,5 +33,5 @@ The most feature-rich and optimized Practice Core (too old version)
 - ~~Winstreaks~~ Already added
 
 # Terms of Use
-- Everyone got the ownership (only meteor or any of his alts is not allowed to get it)
+- Everyone got the ownership (only zique or any of his alts is not allowed to get it)
 - zique or any of his alts is **NOT** allowed to use this.
