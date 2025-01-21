@@ -34,4 +34,4 @@ The most feature-rich and optimized Practice Core (too old version)
 
 # Terms of Use
 - Everyone got the ownership (only zique or any of his alts is not allowed to get it)
-- zique or any of his alts is **NOT** allowed to use this.
+- zique or any of his alts are **NOT** allowed to use this.
