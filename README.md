@@ -32,6 +32,10 @@ The most feature-rich and optimized Practice Core (too old version)
 - Use ACF api for all commands
 - ~~Winstreaks~~ Already added
 
+# Why i open sources it
+- got leaked by mqaaz
+- very bad code it's getting recoded
+
 # Terms of Use
 - Everyone got the ownership (only zique or any of his alts is not allowed to get it)
 - zique or any of his alts are **NOT** allowed to use this.
