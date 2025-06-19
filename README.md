@@ -37,5 +37,5 @@ The most feature-rich and optimized Practice Core (too old version)
 - very bad code it's getting recoded
 
 # Terms of Use
-- Everyone got the ownership (only zique or any of his alts is not allowed to get it)
 - zique or any of his alts are **NOT** allowed to use this.
+- No one is allowed to use it even for private use
