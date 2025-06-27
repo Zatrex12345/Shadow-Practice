@@ -2,7 +2,7 @@
 main: xyz.versedev.practice.Shadow
 name: Shadow
 version: '${project.version}-${git.commit.id.abbrev}' # ${git.commit.id.abbrev}
-author: Zatrex, Trakser # mqaaz don't edit authors
+author: Zatrex, Trakser, Funky, Discord, Marc, Mojang, md5, SpigotMC, PaperMC
 depend:
   - WorldEdit
 softdepend:
