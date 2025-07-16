@@ -1,5 +1,7 @@
 # Shadow
 The most feature-rich and optimized Practice Core (too old version)
+All the credit to [Connorlinfoot](https://github.com/connorlinfoot)
+For making praxi
 
 > [!IMPORTANT]
 > This resource works the best on 1.8.8.
