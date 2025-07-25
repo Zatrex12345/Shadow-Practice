@@ -40,4 +40,4 @@ For making praxi
 
 # Terms of Use
 - zique or any of his alts are **NOT** allowed to use this.
-- No one is allowed to use it even for private use
+- anyone except zique is **ALLOWED** to fork this for **PRIVATE** use and not selling it
